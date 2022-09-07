@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/chat-firebase/static/css/main.abe95483.css",
+    "main.css": "/chat-firebase/static/css/main.5656b96a.css",
     "main.js": "/chat-firebase/static/js/main.95d0e78d.js",
     "static/media/assassins-creed.jpg": "/chat-firebase/static/media/assassins-creed.31fd195373bc0c12b8f7.jpg",
     "index.html": "/chat-firebase/index.html",
-    "main.abe95483.css.map": "/chat-firebase/static/css/main.abe95483.css.map",
+    "main.5656b96a.css.map": "/chat-firebase/static/css/main.5656b96a.css.map",
     "main.95d0e78d.js.map": "/chat-firebase/static/js/main.95d0e78d.js.map"
   },
   "entrypoints": [
-    "static/css/main.abe95483.css",
+    "static/css/main.5656b96a.css",
     "static/js/main.95d0e78d.js"
   ]
 }
